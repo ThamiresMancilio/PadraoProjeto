@@ -1,4 +1,4 @@
 # Padrão de Projeto Proxy
 
 
-O padrão de projeto proxy tem como objetivo proporcionar um espaço reservado para outro objeto controlar o acesso a ele. A classe proxy teoricamente pode se conectar a qualquer objeto, ou seja, normalmente quando existe uma instância grande/comp
+O Pattern Proxy é um padrão Estrutural definido pelo GoF (Gang of Four). O seu objetivo principal é encapsular um objeto através de um outro objeto que possui a mesma interface, de forma que o segundo objeto, conhecido como “Proxy”, controla o acesso ao primeiro, que é o objeto real.
