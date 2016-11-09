@@ -22,4 +22,4 @@ O framework hibernate utiliza o Pattern Proxy, por exemplo, ao fazer o ‘lazy-l
 
 Útil para realizar otimizações, como cache de objetos (Virtual Proxy).
 
-![Diagrama](https://scontent-gru2-1.xx.fbcdn.net/v/t34.0-12/15049890_661271847369753_544176351_n.png?oh=69abb6d7563f24dff8f3ea321de8d555&oe=5825D969)
+![Diagrama](http://scontent-gru2-1.xx.fbcdn.net/v/t34.0-12/15049890_661271847369753_544176351_n.png?oh=69abb6d7563f24dff8f3ea321de8d555&oe=5825D969)
